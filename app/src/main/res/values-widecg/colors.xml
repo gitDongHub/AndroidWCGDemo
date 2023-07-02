@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
     <color name="palette1">#5bc3cc</color>
     <color name="palette2">#302c54</color>
     <color name="palette3">#c7416b</color>
     <color name="palette4">#e37b5b</color>
     <color name="palette5">#ffd64f</color>
-    <!-- desaturated colors used on non color accurate displays -->
-
 </resources>

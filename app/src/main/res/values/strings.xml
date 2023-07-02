@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">WCGDemo</string>
+    <string name="wcg_image_desc">WCG Test Image</string>
 </resources>
